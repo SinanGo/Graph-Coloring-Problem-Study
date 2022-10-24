@@ -1,7 +1,7 @@
 # Graph-Coloring-Problem
 
                                                 What is graph coloring problem ?
-        Graph Coloring (or Vertex Coloring) problem is defined as assignment of smallest number
+  Graph Coloring (or Vertex Coloring) problem is defined as assignment of smallest number
   of colors to the vertices of an undirected graph, such that no adjacent vertices are of the same
   color. A coloring using at most k colors is called a (proper) k-coloring. The smallest number
   of colors needed to color a graph G is called its chromatic number and is often denoted χ(G).
@@ -10,20 +10,16 @@
   find the optimal solution especially for large instances.
   Graph Coloring can be used to model many practical problems, such as event scheduling.
 
-Project Specification : 
+        Project Specification : 
 
   Input format: Inputs will always be given as a text file. Input file format should be as
   follows:
   The first line is the problem line which indicates the number of vertices and the number of
   edges. It starts with “p”, and there is only one such line.
-  
   p <NumVertices> <NumEdges>
-
   The rest of the lines are edge lines. Each line starts with “e” and indicates an edge between
   two vertices.
-  
   e <VertexNumber1> <VertexNumber2>
-
   The above line means that there is an edge between VertexNumber1 and VertexNumber2.
   Here is a sample graph:
   
