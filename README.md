@@ -29,7 +29,22 @@ Here is a sample graph:
 ![Screenshot_6](https://user-images.githubusercontent.com/105942580/197558210-e10b1a80-3fb5-4a69-82a5-7b4ff6879dd7.png)
 
 
+Vertices should always be numbered from 1 to n, where n is the number of vertices.
+Output format: The output should be a text file that consists of two lines:
+- The first line should include a single integer value, the number of colors used (k).
+- The second line should include the labels of the colors used for all vertices, from
+vertex 1 to vertex n. Label values are integers between zero and k-1 and they are
+separated by a space character.
+A possible coloring for the above graph is as follows:
 
+![Screenshot_7](https://user-images.githubusercontent.com/105942580/197559267-f39c939b-6b18-41ad-848f-b695480f18eb.png)
+
+If the labels of the colors are assigned as: Red: 0; Blue: 1; Yellow: 2
+Then the output would be as following:
+3
+0 1 2 0 2
+
+![Screenshot_8](https://user-images.githubusercontent.com/105942580/197559907-ba2bf3e7-e022-46bf-bcab-0f4a4ebf1031.png)
 
 
 
