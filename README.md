@@ -56,7 +56,7 @@ Then the output would be as following:
 3
 0 1 2 0 2
 
-At the above, there are sample files and optimal results. We use these sample files.
+At the below , there are sample files and optimal results. We use these sample files.
   
 ![Screenshot_8](https://user-images.githubusercontent.com/105942580/197559907-ba2bf3e7-e022-46bf-bcab-0f4a4ebf1031.png)
 
