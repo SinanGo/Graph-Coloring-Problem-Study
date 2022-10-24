@@ -59,7 +59,7 @@ Project Specification :
   
 Our Algorithm :
   
-      Before searching graph coloring solutions, we wanted to try to solve this problem with
+    Before searching graph coloring solutions, we wanted to try to solve this problem with
   matrices. The idea was simple: We are using a square matrix because if we have an edge
   between vertex 1 and vertex 2, also we can write it as 2 1, so we need to hold 2 types. Because
   there is no edge between same vertices (1 and 1), diagonal of the matrix always be zero. So, we
