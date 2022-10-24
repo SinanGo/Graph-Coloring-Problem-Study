@@ -143,8 +143,4 @@ After typing the file names , the output file will create at the location of ins
   
 ![Screenshot_14](https://user-images.githubusercontent.com/105942580/197566936-9604457f-f058-4108-a872-4fe81378d763.png)
 
- 
-  
-  
-                                                    The group members are Evren Koymat and Sinan Göçmen.
-                                                The teacher is Assoc. Prof. ÖMER KORÇAK , TA is Kübra Uludağ.
+Thanks for reading...
