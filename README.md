@@ -88,15 +88,19 @@ worth working on.
   
   How to run the code ?
     I use Windows command promp. Firstly change the current directory to the location of installed .java file.
+  
   ![Screenshot_9](https://user-images.githubusercontent.com/105942580/197566116-436690ed-d49b-4a63-8fe1-eedd07d46f42.png)
   
   Then type javac Test.java to compile the code.
+  
   ![Screenshot_10](https://user-images.githubusercontent.com/105942580/197566298-563b0519-294c-4b16-8ea8-064ca1283e31.png)
 
   If there are no error , type java Test to run the code.
+  
   ![Screenshot_11](https://user-images.githubusercontent.com/105942580/197566460-e7d928fc-624e-480c-9c53-72f64ddf64d5.png)
 
   The code will ask you to enter the name of input and output txt files.
+  
   ![Screenshot_13](https://user-images.githubusercontent.com/105942580/197566708-c7d6effc-e35c-46a1-9495-fcf1a4c8ac5d.png)
 
   After typing the file names , the output file will create at the location of installed .java file. And it will look like this:
