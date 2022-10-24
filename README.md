@@ -1,6 +1,6 @@
 # Graph-Coloring-Problem
 
-What is graph coloring problem ?
+                                                What is graph coloring problem ?
         Graph Coloring (or Vertex Coloring) problem is defined as assignment of smallest number
   of colors to the vertices of an undirected graph, such that no adjacent vertices are of the same
   color. A coloring using at most k colors is called a (proper) k-coloring. The smallest number
