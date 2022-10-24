@@ -17,12 +17,14 @@ follows:
 The first line is the problem line which indicates the number of vertices and the number of
 edges. It starts with “p”, and there is only one such line.
 
-  "p <NumVertices> <NumEdges>"
+![Screenshot_15](https://user-images.githubusercontent.com/105942580/197590780-81cb1eb0-3cc0-4a78-b93e-b0500f034028.png)
+
 
 The rest of the lines are edge lines. Each line starts with “e” and indicates an edge between
 two vertices.
 
-  "e <VertexNumber1> <VertexNumber2>"
+![Screenshot_16](https://user-images.githubusercontent.com/105942580/197590804-f237ebec-5a60-4020-93b1-f736a0566b62.png)
+
 
 The above line means that there is an edge between VertexNumber1 and VertexNumber2.
 Here is a sample graph:
@@ -34,7 +36,7 @@ Here is a sample graph:
 
 
   Vertices should always be numbered from 1 to n, where n is the number of vertices.
-  
+
   
   Output format: The output should be a text file that consists of two lines:
   - The first line should include a single integer value, the number of colors used (k).
